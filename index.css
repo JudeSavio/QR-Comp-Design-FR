@@ -48,10 +48,13 @@
     font-family: 'Outfit';
     font-weight: 700;
     font-size: 20px;
+    text-align: center;
+    color: hsl(218, 44%, 22%);
 }
 
 .qr-text p{
     font-family: 'Outfit';
     font-weight: 400;
     margin-top: 10px;
+    text-align: center;
 }
